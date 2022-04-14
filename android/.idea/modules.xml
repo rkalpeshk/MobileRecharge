@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/android.iml" filepath="$PROJECT_DIR$/android.iml" group="android" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" group="android/app" />
+      <module fileurl="file://C:/flutter/.pub-cache/hosted/pub.dartlang.org/facebook_audience_network-0.5.0/android/facebook_audience_network.iml" filepath="C:/flutter/.pub-cache/hosted/pub.dartlang.org/facebook_audience_network-0.5.0/android/facebook_audience_network.iml" group="android/facebook_audience_network" />
+      <module fileurl="file://C:/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_webview_plugin-0.3.11/android/flutter_webview_plugin.iml" filepath="C:/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_webview_plugin-0.3.11/android/flutter_webview_plugin.iml" group="android/flutter_webview_plugin" />
+      <module fileurl="file://C:/flutter/.pub-cache/hosted/pub.dartlang.org/fluttertoast-4.0.1/android/fluttertoast.iml" filepath="C:/flutter/.pub-cache/hosted/pub.dartlang.org/fluttertoast-4.0.1/android/fluttertoast.iml" group="android/fluttertoast" />
+      <module fileurl="file://C:/flutter/.pub-cache/hosted/pub.dartlang.org/path_provider-1.6.7/android/path_provider.iml" filepath="C:/flutter/.pub-cache/hosted/pub.dartlang.org/path_provider-1.6.7/android/path_provider.iml" group="android/path_provider" />
+      <module fileurl="file://C:/flutter/.pub-cache/hosted/pub.dartlang.org/path_provider_macos-0.0.4+1/android/path_provider_macos.iml" filepath="C:/flutter/.pub-cache/hosted/pub.dartlang.org/path_provider_macos-0.0.4+1/android/path_provider_macos.iml" group="android/path_provider_macos" />
+      <module fileurl="file://C:/flutter/.pub-cache/hosted/pub.dartlang.org/webview_flutter-0.3.21/android/webview_flutter.iml" filepath="C:/flutter/.pub-cache/hosted/pub.dartlang.org/webview_flutter-0.3.21/android/webview_flutter.iml" group="android/webview_flutter" />
+    </modules>
+  </component>
+</project>
